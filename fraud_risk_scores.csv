@@ -1,0 +1,21 @@
+transaction_id,amount,is_international,velocity_24h,is_fraud,fraud_probability,risk_score,risk_band,recommended_action
+TXN000001,321.52,0,1,0,0.096,9.6,Low,Approve
+TXN000002,51.38,0,5,0,0.096,9.6,Low,Approve
+TXN000003,380.61,0,2,0,0.096,9.6,Low,Approve
+TXN000004,6780.72,1,19,1,0.974,97.4,High,Block / Manual review
+TXN000005,290.79,0,5,0,0.096,9.6,Low,Approve
+TXN000006,319.66,0,4,0,0.096,9.6,Low,Approve
+TXN000007,233.82,0,6,0,0.096,9.6,Low,Approve
+TXN000008,2145.59,1,18,1,0.974,97.4,High,Block / Manual review
+TXN000009,127.08,0,2,0,0.096,9.6,Low,Approve
+TXN000010,431.25,1,1,0,0.096,9.6,Low,Approve
+TXN000011,342.45,1,2,0,0.096,9.6,Low,Approve
+TXN000012,421.63,0,8,0,0.096,9.6,Low,Approve
+TXN000013,60.37,0,3,0,0.096,9.6,Low,Approve
+TXN000014,473.69,0,7,0,0.096,9.6,Low,Approve
+TXN000015,3507.61,1,17,1,0.974,97.4,High,Block / Manual review
+TXN000016,40.14,1,3,0,0.096,9.6,Low,Approve
+TXN000017,125.28,0,1,0,0.096,9.6,Low,Approve
+TXN000018,365.47,0,8,0,0.096,9.6,Low,Approve
+TXN000019,409.45,1,15,1,0.974,97.4,High,Block / Manual review
+TXN000020,6.07,1,4,0,0.096,9.6,Low,Approve
